@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x13f9fb4f7bf1a8e965b92f7f23706cadd528e3e5",
+  "SCAN_LINK": "https://ftmscan.com/address/0x13f9fb4f7bf1a8e965b92f7f23706cadd528e3e5",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "ChickGang",
+  "SYMBOL": "ChickNFT",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OperaHouse",
+  "MARKETPLACE_LINK": "https://operahouse.online/collection/0x13f9FB4F7BF1A8E965B92F7f23706CadD528e3E5",
+  "SHOW_BACKGROUND": true
+}
